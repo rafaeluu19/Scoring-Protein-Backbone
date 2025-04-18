@@ -6,3 +6,6 @@ Feature:
 2. Calculate phi/psi angles
 3. Scores based on allowed regions of the Ramachandran plot
 4. Simple web interface built in StreamLit
+
+Note: 
+I bult this program with the guidance and coding support from ChatGPT. 
